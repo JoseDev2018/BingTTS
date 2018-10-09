@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="BingTTS",
     version="0.0.1",
-    author="Marvin Benítez",
+    author="Marvin Benitez",
     author_email="mjbb20122@hotmail.com",
     description="A wrapper to link python to the Bing API REST",
     long_description=long_description,
